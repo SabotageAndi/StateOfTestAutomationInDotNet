@@ -8,7 +8,9 @@ namespace _1_HowToRunTests
         [Fact]
         public void A_Test()
         {
+            int number = 1;
 
+            number++;
         }
 
         [Fact]
